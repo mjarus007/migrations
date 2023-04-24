@@ -1,6 +1,6 @@
 (ns migrations.core)
 
 (defn foo
-  "I don't do a whole lot."
+  "Test git username"
   [x]
   (print "Booking App, yey!"))
