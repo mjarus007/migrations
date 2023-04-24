@@ -1,0 +1,8 @@
+{:deps
+ {dakrone/cheshire {:mvn/version "5.10.2"}
+  com.github.seancorfield/next.jdbc {:mvn/version "1.2.780"}
+  weavejester/integrant {:mvn/version "0.8.0"}
+  metosin/reitit {:mvn/version "0.5.18"}
+  org.clojure/clojure {:mvn/version "1.11.1"}
+  juxt/aero {:mvn/version "1.1.6"}
+  org.postgresql/postgresql {:mvn/version "42.2.10"}}}
